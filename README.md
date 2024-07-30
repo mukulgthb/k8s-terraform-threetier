@@ -24,5 +24,5 @@ Vote: This service also has an external IP (51.8.216.120) and is accessible via 
 **Accessing the Services
 **
 
-Result Service: You can access the results of the voting application by navigating to http://4.156.105.89:32320 in your web browser.
-Vote Service: The voting interface can be accessed via http://51.8.216.120:30186.
+Result Service: You can access the results of the voting application by navigating to http://4.156.105.89:80 in your web browser.
+Vote Service: The voting interface can be accessed via http://51.8.216.120:80.
